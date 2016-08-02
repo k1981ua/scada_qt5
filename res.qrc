@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/bitmap">
+        <file>koziiv.bmp</file>
+    </qresource>
+</RCC>

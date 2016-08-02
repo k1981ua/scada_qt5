@@ -36,6 +36,9 @@ HEADERS  += mainwindow.h \
 FORMS    += mainwindow.ui \
     logger.ui
 
+RESOURCES += \
+    res.qrc
+
 
 
 

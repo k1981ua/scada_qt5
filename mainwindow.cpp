@@ -131,7 +131,7 @@ ui->graphicsView->setScene(scene);
 
 //ui->graphicsView->showFullScreen();
 //ui->graphicsView_2->setScene(scene);
-pixmap=new QPixmap("E:\\ALL_PROJECTS\\SCADA\\new_massomer\\koziiv.bmp");
+pixmap=new QPixmap(":\\bitmap\\koziiv.bmp");
 //pixmap->setMask(pixmap->createMaskFromColor(Qt::black, Qt::MaskInColor));
 pixmapItem=scene->addPixmap(*pixmap);
 //ui->progressBar->setStyle(new QMotifStyle() );
